@@ -1,0 +1,11 @@
+C:\Users\221\students\ispp41\NotificationLib\NotificationLib\obj\Debug\net10.0\NotificationLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\221\students\ispp41\NotificationLib\NotificationLib\obj\Debug\net10.0\NotificationLib.AssemblyInfoInputs.cache
+C:\Users\221\students\ispp41\NotificationLib\NotificationLib\obj\Debug\net10.0\NotificationLib.AssemblyInfo.cs
+C:\Users\221\students\ispp41\NotificationLib\NotificationLib\obj\Debug\net10.0\NotificationLib.csproj.CoreCompileInputs.cache
+C:\Users\221\students\ispp41\NotificationLib\NotificationLib\bin\Debug\net10.0\NotificationLib.deps.json
+C:\Users\221\students\ispp41\NotificationLib\NotificationLib\bin\Debug\net10.0\NotificationLib.dll
+C:\Users\221\students\ispp41\NotificationLib\NotificationLib\bin\Debug\net10.0\NotificationLib.pdb
+C:\Users\221\students\ispp41\NotificationLib\NotificationLib\obj\Debug\net10.0\NotificationLib.dll
+C:\Users\221\students\ispp41\NotificationLib\NotificationLib\obj\Debug\net10.0\refint\NotificationLib.dll
+C:\Users\221\students\ispp41\NotificationLib\NotificationLib\obj\Debug\net10.0\NotificationLib.pdb
+C:\Users\221\students\ispp41\NotificationLib\NotificationLib\obj\Debug\net10.0\ref\NotificationLib.dll
